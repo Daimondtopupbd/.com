@@ -5,7 +5,6 @@ if (isset($_SESSION['admin_logged_in'])) {
   exit();
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
